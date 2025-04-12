@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Outside of my academic pursuits, photography allows me to explore the world from different perspectives. It’s a creative outlet that balances my analytical work in bioinformatics. These images represent moments and places that have inspired me during my journey as a researcher.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote: Feel free to replace these images with your own photographs by adding them to the photography directory and updating the filenames here."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Abdalla Alkhawaja",
+    "section": "",
+    "text": "I’m currently focused on understanding the genetics of complex diseases using single cell genomics. Through identifying the genetic effects on chromatin accessibility and gene expression in human liver cell types, we link these regulatory mechanisms with GWAS signal to better understand how genetic variants contribute to disease risk.\nKey aspects of this project include:\n\nProfiling the regulatory landscape of liver cell-types\nIdentifying cell type caQTLs and eQTLs in the human liver\nIntegrating GWAS data with cell-type accessable chromatin landscape and QTLs to pinpoint disease-relevant cell types"
+  },
+  {
+    "objectID": "projects/index.html#single-cell-genomics-of-the-human-liver",
+    "href": "projects/index.html#single-cell-genomics-of-the-human-liver",
+    "title": "Abdalla Alkhawaja",
+    "section": "",
+    "text": "I’m currently focused on understanding the genetics of complex diseases using single cell genomics. Through identifying the genetic effects on chromatin accessibility and gene expression in human liver cell types, we link these regulatory mechanisms with GWAS signal to better understand how genetic variants contribute to disease risk.\nKey aspects of this project include:\n\nProfiling the regulatory landscape of liver cell-types\nIdentifying cell type caQTLs and eQTLs in the human liver\nIntegrating GWAS data with cell-type accessable chromatin landscape and QTLs to pinpoint disease-relevant cell types"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Welcome to my website!\nI am a PhD candidate in the Bioinformatics & Computational Biology (BCB) curriculum at UNC Chapel Hill and a member of the Mohlke lab. My research focuses on understanding the genetics of complex diseases. I use single cell genomics to study regulation of genes affecting cardiometabolic disease. I am also involved in science outreach. I participated in teaching coding in the “How to Learn to Code” summer miniseries at UNC. In my free time, I like to read, cook, and watch movies.\nBefore joining UNC, I obtained my B.Sc in Biomedical Science - molecular and cell biology from Zewail City in Egypt. I was further interested in combining my experimental skills with data analysis, and completing my graduate diploma in Bioinformatics from Nile University paved the way to join the BCB PhD program at UNC.\nOn this website, you will find a selection of my ongoing projects. You will also find information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life’s work. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  }
+]

@@ -1,0 +1,19 @@
+---
+title: "Photography"
+---
+
+Outside of my academic pursuits, photography allows me to explore the world from different perspectives. It's a creative outlet that balances my analytical work in bioinformatics. These images represent moments and places that have inspired me during my journey as a researcher.
+
+::: {layout-ncol=2}
+
+![](gandalf_image_1.jpg)
+
+![](gandalf_image_2.jpg)
+
+![](gandalf_image_3.jpg)
+
+![](gandalf_image_4.jpg)
+
+:::
+
+*Note: Feel free to replace these images with your own photographs by adding them to the photography directory and updating the filenames here.*

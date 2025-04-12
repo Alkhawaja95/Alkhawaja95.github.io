@@ -1,0 +1,14 @@
+
+## Single cell genomics of the human liver
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+I'm currently focused on understanding the genetics of complex diseases using single cell genomics. Through identifying the genetic effects on chromatin accessibility and gene expression in human liver cell types, we link these regulatory mechanisms with GWAS signal to better understand how genetic variants contribute to disease risk.
+
+Key aspects of this project include:
+
+- Profiling the regulatory landscape of liver cell-types
+- Identifying cell type caQTLs and eQTLs in the human liver
+- Integrating GWAS data with cell-type accessable chromatin landscape and QTLs to pinpoint disease-relevant cell types
+
+----

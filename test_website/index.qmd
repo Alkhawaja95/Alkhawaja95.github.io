@@ -1,0 +1,18 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/abdalla_img.jpg"
+  links: []
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a PhD candidate in the Bioinformatics & Computational Biology (BCB) curriculum at UNC Chapel Hill and a member of the [Mohlke lab](https://mohlke.web.unc.edu/). My research focuses on understanding the genetics of complex diseases. I use single cell genomics to study regulation of genes affecting cardiometabolic disease. I am also involved in science outreach. I participated in teaching coding in the "How to Learn to Code" summer miniseries at UNC. In my free time, I like to read, cook, and watch movies.
+
+Before joining UNC, I obtained my B.Sc in Biomedical Science - molecular and cell biology from [Zewail City](https://zewailcity.edu.eg/) in Egypt. I was further interested in combining my experimental skills with data analysis, and completing my graduate diploma in Bioinformatics from [Nile University](https://itcs.nu.edu.eg/program/bioinformatics-diploma) paved the way to join the BCB PhD program at UNC.
+
+On this website, you will find a selection of my ongoing projects. You will also find information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work. Please feel free to [contact me](mailto:abdalla.alkhawaja@unc.edu) if you have any questions or would like to discuss potential projects.
